@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FbaseTest</string>
+    <string name="text">Hello Dash!</string>
+</resources>
